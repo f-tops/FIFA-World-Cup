@@ -1,0 +1,152 @@
+﻿<Window x:Class="WPF_Aplikacija.DetailedTeam"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Aplikacija"
+        mc:Ignorable="d"
+        Title="DetailedTeam" Height="450" Width="800" Background="#FFCF1414">
+    <Grid>
+        <Label 
+            Content="Zemlja:"
+            Grid.Row="0"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label 
+            Content="Fifa kod:"
+            Grid.Row="1"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label 
+            Content="Broj odigranih igri:"
+            Grid.Row="2"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label 
+            Content="Dobivenih:"
+            Grid.Row="3"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label 
+            Content="Izgubljenih:"
+            Grid.Row="4"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label 
+            Content="Neodlučnih:"
+            Grid.Row="5"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label 
+            Content="Broj zabijenih golova:"
+            Grid.Row="6"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label 
+            Content="Broj primljenih golova:"
+            Grid.Row="7"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label 
+            Content="Razlika golova:"
+            Grid.Row="8"
+            Grid.Column="0"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="lblCountry" 
+            Content="Zemlja:"
+            Grid.Row="0"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="lblFifaCode" 
+            Content="Fifa kod:"
+            Grid.Row="1"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="LblNumberOfGamesPlayed" 
+            Content="Broj odigranih igri:"
+            Grid.Row="2"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="lblWon" 
+            Content="Dobivenih:"
+            Grid.Row="3"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="lblLost" 
+            Content="Izgubljenih:"
+            Grid.Row="4"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="LblNeutral" 
+            Content="Neodlučnih:"
+            Grid.Row="5"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="LblGoals1" 
+            Content="Broj zabijenih golova:"
+            Grid.Row="6"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="lblGoals2" 
+            Content="Broj primljenih golova:"
+            Grid.Row="7"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Label x:Name="lblGoals3" 
+            Content="Razlika golova:"
+            Grid.Row="8"
+            Grid.Column="1"
+            Grid.ColumnSpan="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Foreground="White" FontSize="25"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+    </Grid>
+</Window>

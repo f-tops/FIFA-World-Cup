@@ -1,0 +1,56 @@
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\bin\Debug\WPF_Aplikacija.exe.config
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\bin\Debug\WPF_Aplikacija.exe
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\bin\Debug\WPF_Aplikacija.pdb
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.csprojAssemblyReference.cache
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\App.g.cs
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija_MarkupCompile.cache
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija_MarkupCompile.lref
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.g.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.Properties.Resources.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.csproj.GenerateResource.cache
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.exe
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.pdb
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\bin\Debug\PodatkovniSloj.dll
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\bin\Debug\PodatkovniSloj.pdb
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\FootballForm.g.cs
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\FootballForm.baml
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.csproj.CopyComplete
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\MainWindow.g.cs
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\MainWindow.baml
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\Models\Player.g.cs
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\Models\Player.baml
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\DetailedPlayer.g.cs
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\DetailedTeam.g.cs
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\DetailedPlayer.baml
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WPF_Aplikacija\obj\Debug\DetailedTeam.baml
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\bin\Debug\WPF_Aplikacija.exe.config
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\bin\Debug\WPF_Aplikacija.exe
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\bin\Debug\WPF_Aplikacija.pdb
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\bin\Debug\PodatkovniSloj.dll
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\bin\Debug\PodatkovniSloj.pdb
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.csprojAssemblyReference.cache
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\DetailedPlayer.g.cs
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\DetailedTeam.g.cs
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\FootballForm.g.cs
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\MainWindow.g.cs
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\Models\Player.g.cs
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\App.g.cs
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija_MarkupCompile.cache
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija_MarkupCompile.lref
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\DetailedPlayer.baml
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\DetailedTeam.baml
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\FootballForm.baml
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\MainWindow.baml
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\Models\Player.baml
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.g.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.Properties.Resources.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.csproj.GenerateResource.cache
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.csproj.CopyComplete
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.exe
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WPF_Aplikacija\obj\Debug\WPF_Aplikacija.pdb

@@ -1,0 +1,44 @@
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\bin\Debug\WindowsForms_Aplikacija.exe
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\bin\Debug\WindowsForms_Aplikacija.pdb
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\bin\Debug\PodatkovniSloj.pdb
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\bin\Debug\PodatkovniSloj.dll
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.csprojAssemblyReference.cache
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.FavouritePlayers.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.MainForm.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.Properties.Resources.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.RangListaIgraca.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.SelectFavouriteTeamForm.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.WelcomeForm.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.csproj.GenerateResource.cache
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.exe
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.pdb
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\bin\Debug\WindowsForms_Aplikacija.exe.config
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.csproj.CopyComplete
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.AttendanceListForm.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.Options.resources
+C:\Users\Franjo\Desktop\OOP.net-praktikum\OOP.net_praktikum_projekt_FranjoTopić\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.PlayerDetails.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\bin\Debug\WindowsForms_Aplikacija.exe.config
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\bin\Debug\WindowsForms_Aplikacija.exe
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\bin\Debug\WindowsForms_Aplikacija.pdb
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\bin\Debug\PodatkovniSloj.dll
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\bin\Debug\PodatkovniSloj.pdb
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.csprojAssemblyReference.cache
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.AttendanceListForm.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.FavouritePlayers.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.MainForm.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.Options.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.PlayerDetails.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.Properties.Resources.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.RangListaIgraca.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.SelectFavouriteTeamForm.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.WelcomeForm.resources
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.csproj.GenerateResource.cache
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.csproj.CopyComplete
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.exe
+C:\Users\Franjo\Downloads\OOP.net praktikum\oop projekt\WindowsForms_Aplikacija\obj\Debug\WindowsForms_Aplikacija.pdb

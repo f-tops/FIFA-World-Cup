@@ -1,0 +1,101 @@
+﻿<Window x:Class="WPF_Aplikacija.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Aplikacija"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="422.951" Width="755.738">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label
+            Grid.Row="0"
+            Grid.ColumnSpan="6"
+            Content="FIFA 2018 WPF"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontSize="30" Background="#FFB00E0E" Foreground="White"
+            />
+        <GroupBox Header="Odabir prvenstva" Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="1">
+            <DockPanel Margin="10">
+                <ComboBox x:Name="cbWorldCup" HorizontalAlignment="Center" Width="auto">
+                    <ComboBoxItem Content="Muško" IsSelected="True">
+                    </ComboBoxItem>
+                    <ComboBoxItem Content="Žensko">
+                    </ComboBoxItem>
+                </ComboBox>
+
+            </DockPanel>
+        </GroupBox>
+        <GroupBox Header="Odabir jezika" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="1">
+            <DockPanel Margin="10">
+                <ComboBox x:Name="cbLanguage" HorizontalAlignment="Center" Width="auto">
+                    <ComboBoxItem Content="Hrvatski" IsSelected="True">
+                    </ComboBoxItem>
+                    <ComboBoxItem Content="Engleski">
+                    </ComboBoxItem>
+                </ComboBox>
+
+            </DockPanel>
+        </GroupBox>
+        <GroupBox Header="Odabir rezolucije" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="1">
+            <DockPanel Margin="10">
+                <ComboBox x:Name="cbResolution" HorizontalAlignment="Center" Width="auto">
+                    <ComboBoxItem Content="1024x768" IsSelected="True">
+                    </ComboBoxItem>
+                    <ComboBoxItem Content="1280x720">
+                    </ComboBoxItem>
+                    <ComboBoxItem Content="1440x900">
+                    </ComboBoxItem>
+                    <ComboBoxItem Content="Fullscreen">
+                    </ComboBoxItem>
+                </ComboBox>
+
+            </DockPanel>
+        </GroupBox>
+        <Button
+            Background="#FFB00E0E"
+            Grid.Row="4"
+            Grid.Column="3"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Content="Spremi"
+            Padding="20, 10"
+            x:Name="btnSave"
+            Click="btnSave_Click" Foreground="White"
+            >
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button
+            Background="#FFB00E0E"
+            Grid.Row="4"
+            Grid.Column="1"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Content="Zatvori"
+            Padding="20, 10"
+            x:Name="btnClose"
+            Click="btnClose_Click" IsCancel="True" Foreground="White"
+            >
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+    </Grid>
+</Window>
